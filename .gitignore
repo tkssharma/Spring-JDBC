@@ -1,0 +1,8 @@
+/target/
+/target
+.class
+.jar
+*.class
+.setting*
+target/
+
